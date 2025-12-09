@@ -1,0 +1,51 @@
+# 🐍 Python Telegram Bot Requirements
+# Version: 1.0.0
+
+# Core Bot Framework
+pyTelegramBotAPI==4.15.0
+
+# Database
+sqlite3
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Scheduling
+schedule==1.2.0
+
+# Date & Time
+pytz==2023.3
+python-dateutil==2.8.2
+
+# Security & Encryption
+cryptography==41.0.7
+
+# Logging
+colorlog==6.7.0
+
+# JSON Web Tokens (Optional)
+PyJWT==2.8.0
+
+# Data Validation
+pydantic==2.5.0
+
+# CLI Colors
+colorama==0.4.6
+
+# HTTP Server (Webhook)
+flask==3.0.0
+gunicorn==21.2.0
+
+# Async Support (Optional)
+aiohttp==3.9.1
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Development Tools
+black==23.11.0
+flake8==6.1.0
