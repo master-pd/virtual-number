@@ -1,0 +1,21 @@
+{
+    "required": [
+        {
+            "id": "@your_main_channel",
+            "name": "Main Channel",
+            "url": "https://t.me/your_main_channel"
+        },
+        {
+            "id": "@your_group",
+            "name": "Main Group",
+            "url": "https://t.me/your_group"
+        }
+    ],
+    "optional": [
+        {
+            "id": "@support_channel",
+            "name": "Support Channel",
+            "url": "https://t.me/support_channel"
+        }
+    ]
+}
