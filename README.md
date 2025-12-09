@@ -6,14 +6,7 @@
 
 A Telegram bot that generates virtual Indian numbers and OTPs for app verification.
 
-```mermaid
-graph LR
-    A[Local Edit] --> B[Git Commit]
-    B --> C[Git Push]
-    C --> D[GitHub]
-    D --> E[Termux Pull]
-    E --> F[Run Bot]
-```
+## 💝 SETUP GUIDE ✔️
 
 ```mermaid
 graph LR
